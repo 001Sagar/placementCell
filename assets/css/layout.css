@@ -1,0 +1,22 @@
+body{
+    width: 97%;
+}
+nav{
+    padding:15px;
+    background-color:#0F3460;
+    margin-top: -0.4%;
+    width: 100%;
+
+}
+nav > a:hover{
+     border-bottom: 4px solid orange;
+     padding-bottom: 11px;
+}
+a{
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+
+}
